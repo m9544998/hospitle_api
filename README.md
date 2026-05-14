@@ -1,11 +1,10 @@
 # hospitle_api
-# 🏥 Hospital Patient Management API
+# Hospital Patient Management API
 
 A REST API built with **Flask** and **SQLite** to manage hospital patients.
 
 ---
-
-## 🏗️ Architecture
+##  Architecture
 
 ```
 hospital-api/
@@ -120,4 +119,4 @@ http://127.0.0.1:5000
 
 ##  Author
 - **Maheen**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: m9544998@gmail.com
